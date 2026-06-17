@@ -18,3 +18,4 @@ while True:
   else:
     #Print for invalid input
     print("Invalid input. Please enter 'r' to roll or 'q' to quit.")
+    #End of program
