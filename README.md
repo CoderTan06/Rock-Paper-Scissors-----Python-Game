@@ -80,3 +80,23 @@ A simple calculator that performs basic arithmetic operations based on user inpu
 
 ## How to Run
 Run the file using any Python compiler or online IDLE.
+
+#FILE 5
+# Coin Toss Simulator – Python Game
+
+A simple Python program that simulates tossing a coin and displays a random result.
+
+## Features
+- Random Heads/Tails output
+- User chooses to toss or quit
+- Loop-based interaction
+- Beginner-friendly logic
+
+## Skills Demonstrated
+- Python basics
+- Loops
+- Conditional statements
+- Random module usage
+
+## How to Run
+Run the file using any Python compiler or online IDE.
